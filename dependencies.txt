@@ -1,3 +1,4 @@
 pandas
 keplergl
 matplotlib
+seaborn
