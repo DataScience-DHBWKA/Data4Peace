@@ -1,4 +1,5 @@
 pandas
 keplergl
 matplotlib
+plotly
 seaborn
