@@ -1,5 +1,6 @@
 pandas
-keplergl
-matplotlib
+numpy 
 plotly
-seaborn
+seaborn 
+sklearn
+keplergl
