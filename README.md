@@ -1,6 +1,6 @@
 # Data4Peace
 
-𝕁𝕦𝕡𝕪𝕥𝕖𝕣 ℕ𝕠𝕥𝕖𝕓𝕠𝕠𝕜[ℙ𝕪𝕥𝕙𝕠𝕟] 𝕍𝕊 ℙ𝕠𝕨𝕖𝕣𝔹𝕀
+![image](https://github.com/DataScience-DHBWKA/Data4Peace/assets/116844918/a0d530d7-8fd1-414e-8dc1-883352628685)
 
 [Latex-Link](https://www.overleaf.com/8963384311mhkcsrczbqdy#a646b7)
 
