@@ -2,7 +2,7 @@
 
 ![Logo](https://github.com/DataScience-DHBWKA/Data4Peace/assets/116844918/a0d530d7-8fd1-414e-8dc1-883352628685)
 
-This repository contains a detailed analysis and comparison of Jupyter Notebook (Python) and Power BI.
+This repository contains a detailed analysis and comparison of Python (Jupyter Notebook) and Power BI.
 For this, we have used a temporal 🕔 and geographical 🗺 dataset about terrorism to compare the features, functionality, and capabilities of these extensive tools.
 You can find the detailed elaboration 📑 in the [Elaboration.pdf](./Elaboration.pdf) (note, that the current version is only avaiable in German. Other Versions may follow soon.)
 
