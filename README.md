@@ -13,10 +13,3 @@ You can find the detailed elaboration 📑 in the [Elaboration.pdf](./Elaboratio
 ![Map](https://github.com/DataScience-DHBWKA/Data4Peace/assets/116844918/26dffdeb-1e75-4c4c-8457-74603257534c)
 It is important, that these charts can not be displayed directly in the Jupyter Notebook file within Github.
 But you can run the Evaluation.ipynb natively or find them in the [Python_Output](./Python/Python_Output) directory.
-
-## Internal Links
-✍ [Latex-Link](https://www.overleaf.com/8963384311mhkcsrczbqdy#a646b7)
-
-💬 [PowerPoint](https://1drv.ms/f/s!AlJUZwkeauEpgjzF6ho1ZZ4aqRoL?e=CZrx3J)
-
-
